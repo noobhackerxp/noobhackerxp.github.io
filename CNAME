@@ -1,1 +1,5 @@
-rndprojects.paruluniversity.ac.in
+Type:     CNAME
+Name:     rndprojects
+Target:   noobhackerxp.github.io
+TTL:      Auto or 300 seconds
+Proxy:    Off (if using Cloudflare, disable the orange cloud)
